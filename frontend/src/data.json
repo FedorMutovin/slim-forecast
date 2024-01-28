@@ -1,0 +1,31 @@
+{
+  "approximateFinalDate": "25.08.2024",
+  "nextCheckDate": "29.01.2024",
+  "nextCheckExpectedWeight": 85.30,
+  "currentWeightGoal": 70.00,
+  "milestone": 80.00,
+  "approximateMilestoneDate": "18.03.2024",
+  "averageWeightLoss": 0.75,
+  "history": [
+    {
+      "id": 1,
+      "date": "01.01.2024",
+      "weight": 88.30
+    },
+    {
+      "id": 2,
+      "date": "08.01.2024",
+      "weight": 87.05
+    },
+    {
+      "id": 3,
+      "date": "15.01.2024",
+      "weight": 86.15
+    },
+    {
+      "id": 4,
+      "date": "22.01.2024",
+      "weight": 86.05
+    }
+  ]
+}
